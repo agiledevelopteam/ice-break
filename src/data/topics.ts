@@ -37,8 +37,7 @@ export const teamParticipants: Record<string, string[]> = {
     'とび',
     'まさぴ',
     'ぐっさん',
-    'たくぼー',
-    'Sary',
+    'Sary'
   ]
 };
 
